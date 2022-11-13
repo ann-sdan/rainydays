@@ -939,6 +939,10 @@ input {
   .front > h1 {
     font-size: 1.2rem;
   }
+
+  .product {
+    width: 80%;
+  }
 }
 
 @media screen and (max-width: 1200px) {
