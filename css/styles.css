@@ -700,7 +700,6 @@ input {
   padding: 1.5rem;
   border-radius: 1rem;
   width: 50%;
-  border: 1px solid;
   background: #076871;
   color: #fff;
 }
@@ -881,6 +880,10 @@ input {
 @media screen and (max-width: 900px) {
   .navLinks {
     display: none;
+  }
+
+  .thanksMessage {
+    width: 80%;
   }
 
   .logo {
