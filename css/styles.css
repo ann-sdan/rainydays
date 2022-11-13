@@ -334,6 +334,8 @@ li {
 }
 .jacketContainer > img {
   max-width: 40%;
+  height: 250px;
+  object-fit: contain;
 }
 .jacketContainer > button {
   color: #0a3641;
@@ -353,28 +355,44 @@ li {
 }
 
 .productD {
-  display: flex;
   width: 80%;
-  margin: 0 auto;
+  margin: 7rem auto 0;
   padding: 4rem 0;
-  justify-content: space-between;
+}
+
+.productDetail {
+  display: flex;
   align-items: center;
+  justify-content: space-around;
+  width: 70%;
+  margin: 0 auto;
 }
 
 .proinfo {
-  width: 50%;
+  margin-top: 4rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
-.proinfo h2 {
+
+.proinfo h3 {
+  margin-bottom: 0.5rem;
+}
+.productinfo h2 {
   color: #0a3641;
 }
 
-.proinfo img {
-  width: 48%;
-  height: 15rem;
+.productinfo img {
+  width: 60%;
   object-fit: cover;
 }
 .proinfo label {
   color: #0a3641;
+}
+
+.productinfo {
+  width: 40%;
 }
 
 .proinfo input {
@@ -382,7 +400,7 @@ li {
   height: 2rem;
   font-size: 1rem;
 }
-.proinfo button {
+.proinfoButton {
   color: #fff;
   background-color: #076871;
   border: none;
@@ -393,6 +411,7 @@ li {
   text-align: center;
   font-size: 1rem;
 }
+
 /* Contact us Page */
 
 .contact {
