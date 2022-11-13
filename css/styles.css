@@ -783,6 +783,10 @@ input {
     width: 40%;
   }
 
+  form {
+    width: 80%;
+  }
+
   .productD {
     width: 80%;
     margin-top: 1rem;
