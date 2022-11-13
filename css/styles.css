@@ -858,6 +858,20 @@ input {
   .productInfo p {
     margin-bottom: 1rem;
   }
+
+  .rainydaysContainer {
+    width: 90%;
+  }
+
+  .rainydaysContainer img {
+    margin: 2rem auto;
+    height: 200px;
+  }
+
+  .abmassadors > h2 {
+    top: 3rem;
+    left: 20%;
+  }
 }
 
 @media screen and (max-width: 900px) {
