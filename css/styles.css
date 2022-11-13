@@ -875,6 +875,10 @@ input {
     top: 3rem;
     left: 20%;
   }
+
+  .thanksButton {
+    width: 80%;
+  }
 }
 
 @media screen and (max-width: 900px) {
