@@ -781,6 +781,31 @@ input {
   .navIcons {
     width: 40%;
   }
+
+  .productD {
+    width: 80%;
+    margin-top: 1rem;
+  }
+
+  .productDetail {
+    flex-direction: column-reverse;
+    width: 100%;
+  }
+
+  .productinfo h2 {
+    color: #0a3641;
+    margin: 1rem 0;
+    font-size: 1.3rem;
+  }
+
+  .productinfo img {
+    width: 100%;
+    object-fit: cover;
+  }
+
+  .productinfo {
+    width: 100%;
+  }
 }
 
 @media screen and (max-width: 900px) {
