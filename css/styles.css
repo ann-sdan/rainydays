@@ -744,6 +744,10 @@ input {
   width: 50%;
 }
 
+.activityInfo p {
+  font-size: 1.3rem;
+}
+
 .activity img {
   width: 48%;
   height: 15rem;
@@ -756,6 +760,10 @@ input {
   .navIcons {
     justify-content: space-around;
   }
+
+  .activityInfo p {
+    font-size: 1rem;
+  }
 }
 
 @media screen and (min-width: 1200px) {
@@ -765,6 +773,10 @@ input {
 
   .navIcons {
     width: 12%;
+  }
+
+  .activityInfo p {
+    font-size: 1.3rem;
   }
 
   .front {
@@ -883,6 +895,10 @@ input {
 
   form > h2 {
     font-size: 1.2rem;
+  }
+
+  .activityInfo p {
+    font-size: 0.8rem;
   }
 }
 
