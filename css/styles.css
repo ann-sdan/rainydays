@@ -808,6 +808,22 @@ input {
     width: 100%;
   }
 
+  .womenjak {
+    margin: 1rem auto;
+  }
+
+  .jacketContainer {
+    margin-bottom: 1rem;
+  }
+  .jacketContainer > img {
+    max-width: 45%;
+    height: 200px;
+  }
+
+  .jacketButton {
+    margin: 2rem 0;
+  }
+
   .overhead {
     font-size: 1.5rem;
   }
