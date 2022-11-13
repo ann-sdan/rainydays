@@ -32,6 +32,11 @@ footer {
   font-size: 1.5rem;
 }
 
+footer img {
+  height: 111px;
+  width: 207px;
+}
+
 a {
   text-decoration: none;
   color: #0a3641;
