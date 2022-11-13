@@ -799,7 +799,7 @@ input {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    padding-top: 3rem;
+    padding-top: 2rem;
   }
 
   .button {
@@ -824,20 +824,3 @@ input {
     width: 14rem;
   }
 }
-
-/* .button {
-  border: 0.1rem solid #0a3641;
-  font-size: 1rem;
-  border-radius: 20px;
-  background-color: gray;
-  opacity: 0.8;
-  color: #fff;
-  padding-top: 1.5rem;
-  padding-bottom: 1.5rem;
-  width: 16rem;
-  position: absolute;
-  top: 20%;
-  text-align: center;
-}
-
-*/
