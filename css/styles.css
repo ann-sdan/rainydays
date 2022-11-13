@@ -777,6 +777,12 @@ input {
   }
 }
 
+@media screen and (max-width: 600px) {
+  .navIcons {
+    width: 40%;
+  }
+}
+
 @media screen and (max-width: 900px) {
   .navLinks {
     display: none;
