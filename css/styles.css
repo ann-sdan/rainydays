@@ -443,6 +443,7 @@ li {
 
 form > h2 {
   padding-bottom: 1rem;
+  font-size: 1.6rem;
 }
 
 /*  Registrer page */
@@ -878,6 +879,10 @@ input {
 
   .contactInfo {
     width: 90%;
+  }
+
+  form > h2 {
+    font-size: 1.2rem;
   }
 }
 
