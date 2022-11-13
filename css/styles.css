@@ -240,7 +240,7 @@ li {
   opacity: 0.5;
   text-align: center;
   font-style: italic;
-  font: size 50px;
+  font-size: 2rem;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -800,7 +800,6 @@ input {
     justify-content: center;
     align-items: center;
     padding-top: 1rem;
-    border: 2px solid red;
   }
 
   .button {
@@ -815,9 +814,10 @@ input {
   .buttonRigth {
     right: 0;
   }
-}
 
-@media screen and (max-width: 1200px) {
+  .front > h1 {
+    font-size: 1.2rem;
+  }
 }
 
 @media screen and (max-width: 1200px) {
