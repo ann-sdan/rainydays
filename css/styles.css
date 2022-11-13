@@ -263,6 +263,7 @@ li {
   background: #ccd1d5;
   padding: 2rem 0;
   text-align: center;
+  font-size: 3rem;
 }
 
 /* About Us */
@@ -805,6 +806,10 @@ input {
 
   .productinfo {
     width: 100%;
+  }
+
+  .overhead {
+    font-size: 1.5rem;
   }
 }
 
