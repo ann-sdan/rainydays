@@ -1,4 +1,4 @@
-# rainydays
+# Rainydays
 My first html and css development project at Noroff.
 
 
