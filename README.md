@@ -1,16 +1,34 @@
 # rainydays
-Project for html and css class 
 My first html and css development project at Noroff.
 
-Link to my site https://annsrainydays.netlify.app/index.html
 
-Adobe xd mobile prototype:
-https://xd.adobe.com/view/8d3c778a-f576-445e-85e8-105290c73eb9-d86f/
 
-Adobe xd desktop prototype:
-https://xd.adobe.com/view/23ca3caf-10d3-4c9d-a046-39a5b52cd649-7699/
+## Description
 
-I changed the design slightly, but just in the way that I did not need to use javascript.
+Add a more detailed description of what your project entails and set out to do.
 
-For inspiration I look at some different code on YouTube, that help me find my way back when I got lost.
-https://www.youtube.com/c/DevEd/videos
+You can add some bullet points if you'd like to:
+
+List item 1
+List item 2
+List item 3
+
+### Built With
+The tech stack i have been yousing:
+
+HTML
+CSS
+
+### Installing
+
+To get started, you have to
+Clone the repo
+git clone: git@github.com:NoroffFEU/portfolio-1-example.git
+
+Contact
+
+This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
+
+My Twitter page
+
+My LinkedIn page
