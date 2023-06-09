@@ -23,7 +23,7 @@ The tech stack i have been yousing:
 
 To get started, you have to
 Clone the repo
-git clone: git@github.com:NoroffFEU/portfolio-1-example.git
+git clone: https://github.com/ann-sdan/rainydays.git
 
 Contact
 
