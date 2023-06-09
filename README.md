@@ -16,8 +16,8 @@ List item 3
 ### Built With
 The tech stack i have been yousing:
 
-HTML
-CSS
+- HTML
+- CSS
 
 ### Installing
 
