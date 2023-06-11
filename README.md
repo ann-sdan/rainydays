@@ -13,9 +13,7 @@ And also be a eazy user-friendly site.
 
 Some ekstra points with informasjon:
 
-- The HTML should be semantic and neat.
-- The CSS should follow the DRY principle and be easy to read.
-- The site should be WCAG compliant, and accessibility is taken into account.
+- The site is WCAG compliant.
 
 ## Built With
 The tech stack i have been yousing:
