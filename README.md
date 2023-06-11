@@ -1,5 +1,6 @@
 # Rainydays
 My first html and css development project at Noroff.
+![image](https://github.com/ann-sdan/rainydays/assets/114868348/fe889794-b044-42a1-93cb-3575cd8db472)
 
 
 
